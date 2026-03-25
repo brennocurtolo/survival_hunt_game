@@ -1,6 +1,6 @@
-# 🎮 Roll-a-Ball Game
+# 🎮 Survival-Hunt Game
 
-[![Play Game](https://img.shields.io/badge/Play-Online-green?style=for-the-badge)](https://play.unity.com/en/games/62a69335-45d6-493e-a2d2-3ac7c30c8a5a/builds)
+[![Play Game](https://img.shields.io/badge/Play-Online-green?style=for-the-badge)]()
 
 ---
 
@@ -9,31 +9,16 @@
 <!-- Substitua o link abaixo pelo seu vídeo -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e6f87c9f-3140-4d7d-b60a-f7eaa2f74303" width="700"/>
+  <img src="" width="700"/>
 </p>
 
 ---
 
 ## 🧩 About the Project
 
-This repository contains a **3D game developed in Unity**, where the player controls a sphere in an interactive environment.
-
-The main objective is to:
-
-* Collect all items
-* Avoid obstacles that block your path
-* Evade enemies that actively pursue the player
-
-The project focuses on implementing core gameplay mechanics such as movement, collision handling, and basic AI behavior.
-
 ---
 
 ## 🎮 Gameplay Mechanics
-
-* **Player Movement:** Smooth physics-based control of a rolling sphere
-* **Collectibles:** Items placed across the map to be gathered
-* **Obstacles:** Static and dynamic elements that challenge navigation
-* **Enemies:** Entities that chase the player, requiring strategic movement
 
 ---
 
@@ -58,7 +43,7 @@ The project focuses on implementing core gameplay mechanics such as movement, co
 1. Clone this repository:
 
 ```
-git clone https://github.com/brennocurtolo/roll_a_ball_game.git
+git clone https://github.com/brennocurtolo/survival_hunt_game.git
 ```
 
 2. Open the project in Unity Hub
@@ -78,7 +63,7 @@ Assets/Scenes/Main.unity
 ## 🌐 Play Online
 
 👉 You can play the game here:
-**[Play Now](https://play.unity.com/en/games/62a69335-45d6-493e-a2d2-3ac7c30c8a5a/buildsE)**
+**[Play Now]()**
 
 ---
 
