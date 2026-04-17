@@ -9,9 +9,9 @@
 <!-- Substitua o link abaixo pelo seu vídeo -->
 
 <p align="center">
-  <img width="33%" alt="Video 4 (1)" src="https://github.com/user-attachments/assets/0288d8db-79bf-4ee5-8658-5a4aa921f082" />
-  <img width="33%" alt="Video 3" src="https://github.com/user-attachments/assets/2904f22c-bbdf-4697-a146-552ac2df80f2" />
-  <img width="33%" alt="Video 2" src="https://github.com/user-attachments/assets/7c6fd0a8-f0c9-4f29-b8bb-c53a207b0e7d" />
+  <img width="30%" alt="Video 4 (1)" src="https://github.com/user-attachments/assets/0288d8db-79bf-4ee5-8658-5a4aa921f082" />
+  <img width="30%" alt="Video 3" src="https://github.com/user-attachments/assets/2904f22c-bbdf-4697-a146-552ac2df80f2" />
+  <img width="30%" alt="Video 2" src="https://github.com/user-attachments/assets/7c6fd0a8-f0c9-4f29-b8bb-c53a207b0e7d" />
 </p>
 
 ---
