@@ -4,6 +4,9 @@ Temp/
 Obj/
 Build/
 Builds/
+Logs/
+UserSettings/
+
 *.csproj
 *.unityproj
 *.sln
