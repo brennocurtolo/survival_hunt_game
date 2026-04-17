@@ -1,6 +1,6 @@
-# 🎮 Survival-Hunt Game
+# 🎮 Roll-a-Ball Game
 
-[![Play Game](https://img.shields.io/badge/Play-Online-green?style=for-the-badge)]()
+[![Play Game](https://img.shields.io/badge/Play-Online-green?style=for-the-badge)](https://play.unity.com/pt/games/ba9dbfd1-f558-4ccf-8606-d77e90767b44/survival-hunt)
 
 ---
 
@@ -9,32 +9,51 @@
 <!-- Substitua o link abaixo pelo seu vídeo -->
 
 <p align="center">
-  <img src="" width="700"/>
+  <img width="33%" alt="Video 4 (1)" src="https://github.com/user-attachments/assets/0288d8db-79bf-4ee5-8658-5a4aa921f082" />
+  <img width="33%" alt="Video 3" src="https://github.com/user-attachments/assets/2904f22c-bbdf-4697-a146-552ac2df80f2" />
+  <img width="33%" alt="Video 2" src="https://github.com/user-attachments/assets/7c6fd0a8-f0c9-4f29-b8bb-c53a207b0e7d" />
 </p>
 
 ---
 
 ## 🧩 About the Project
 
+This is a **3D game developed in Unity** where the player must survive while being hunted and collect all the items scattered throughout the map.
+
+The main objectives are:
+
+- Collect all the fish
+- Avoid obstacles that block the player's path
+- Evade hunters that actively pursue the player
+
+The project focuses on implementing core gameplay mechanics such as player movement, collision handling, animations, and interactions with different environments (ice, mountains, and snow).
+
 ---
 
 ## 🎮 Gameplay Mechanics
+
+- **Player Movement:** Character movement across different terrains such as snow, ice, and mountains  
+- **Collectibles:** Fish scattered throughout the map that must be collected  
+- **Obstacles:** Environmental elements that block or limit the player's path  
+- **Enemies:** Hunters that actively chase the player, requiring evasive movement and positioning  
 
 ---
 
 ## 🕹️ Controls
 
-| Action             | Input             |
-| ------------------ | ----------------- |
-| Move               | WASD / Arrow Keys |
-| Jump               | Space             |
+| Action | Input |
+|--------|-------|
+| Move   | WASD / Arrow Keys |
+| Jump   | Space |
+| Run    | Shift |
 
 ---
 
 ## 🛠️ Technologies Used
 
-* **Unity (3D Engine)**
-* **C#**
+- **Unity (3D Engine)**
+- **C#**
+- **Blender (3D Modeling)**
 
 ---
 
@@ -53,7 +72,7 @@ git clone https://github.com/brennocurtolo/survival_hunt_game.git
 4. Open the main scene:
 
 ```
-Assets/Scenes/Main.unity
+Assets/Scenes/MainMenu.unity
 ```
 
 5. Press **Play** in the editor
@@ -63,7 +82,7 @@ Assets/Scenes/Main.unity
 ## 🌐 Play Online
 
 👉 You can play the game here:
-**[Play Now]()**
+**[Play Now](https://play.unity.com/pt/games/ba9dbfd1-f558-4ccf-8606-d77e90767b44/survival-hunt)**
 
 ---
 
